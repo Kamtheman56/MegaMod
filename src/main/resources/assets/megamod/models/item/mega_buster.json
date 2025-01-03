@@ -1,0 +1,20 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "megamod:item/mega_buster_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "megamod:item/mega_buster_gui"
+    },
+    "ground": {
+      "parent": "megamod:item/mega_buster_gui"
+    },
+    "fixed": {
+      "parent": "megamod:item/mega_buster_gui"
+    }
+  },
+  "textures": {
+    "layer0": "megamod:item/mega_buster",
+    "particle": "megamod:item/mega_buster"
+    }}
